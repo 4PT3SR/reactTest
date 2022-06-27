@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    width: 98%;
+    border-radius: .5rem;
+    padding: 2rem;
+    text-align: center;
+    color:white;
+    font-family: cursive;
+    font-size:1.3rem;
+    text-transform:capitalize;
+}
